@@ -1,0 +1,23 @@
+{
+  "name": "fcc-intermediate-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_sum_all_numbers_in_a_range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panda622/freecodecamp-intermediate-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panda622/freecodecamp-intermediate-algorithm/issues"
+  },
+  "homepage": "https://github.com/panda622/freecodecamp-intermediate-algorithm#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
